@@ -3,7 +3,7 @@
  
  
 ## Private Repositories
- keylogger - I have a private keylogger repository. If anyone is interested in getting access to it, please contact me.
+ keylogger - I have a private keylogger repository that I created for educational purposes. If anyone is interested in getting access to it, please contact me.
  
 ## Public Repositories
  [Port_Scanner](https://github.com/JonathanYS/Port_Scanner)<br>
