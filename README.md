@@ -8,4 +8,6 @@
 ## Public Repositories
  [Port_Scanner](https://github.com/JonathanYS/Port_Scanner)<br>
  [Attack-On-Aliens](https://github.com/JonathanYS/Attack-On-Aliens)<br>
- [MD5-Distributed-Calculation](https://github.com/JonathanYS/MD5-Distributed-Calculation)
+ [MD5-Distributed-Calculation](https://github.com/JonathanYS/MD5-Distributed-Calculation)<br>
+ [A*-Visualization](https://github.com/JonathanYS/AStar-Visualization)<br>
+ [Writeups](https://github.com/JonathanYS/Writeups)
